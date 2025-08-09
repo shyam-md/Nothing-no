@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Exploring-green?style=for-the-badge&logo=codeforces" />
   <img src="https://img.shields.io/badge/HackTheBox-ShyamSec-9cf?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/TryHackMe-shyamroot-red?style=for-the-badge&logo=instagram" />
+  <img src="https://img.shields.io/badge/Instagram-starboy_shyam-red?style=for-the-badge&logo=instagram" />
 </p>
 
 ---
